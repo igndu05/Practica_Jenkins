@@ -1,1 +1,2 @@
 Este es un archivo de texto plano
+Linea nueva
